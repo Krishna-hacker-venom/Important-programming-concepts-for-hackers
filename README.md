@@ -21,5 +21,6 @@ This repository contains notes on core programming concepts explained with a hac
 * [Boolean Type (bool)](python-data-types-for-hackers.md#11-boolean-type)
 * [Binary Types (bytes, bytearray, memoryview)](python-data-types-for-hackers.md#12-binary-types)
 * [None Type (NoneType)](python-data-types-for-hackers.md#13-none-type)
+* [Type Casting (Conversion Between Data Types)](python-type-casting-notes.md#python-type-casting-notes-beginner--advanced)
 
 ---
