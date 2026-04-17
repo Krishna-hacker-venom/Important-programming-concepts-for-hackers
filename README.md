@@ -2,11 +2,14 @@
 
 ## Introduction
 
-This repository contains notes on core programming concepts explained with a hacker mindset. The goal is to help beginners understand how programming is used in ethical hacking and bug bounty hunting, focusing on how systems work internally and where vulnerabilities can exist.
+This repository contains notes on core programming concepts explained with a hacker mindset.
+The goal is to help beginners understand how programming is used in ethical hacking and bug bounty hunting, focusing on how systems work internally and where vulnerabilities can exist.
 
 ---
 
 ## Concepts
+
+### Core Programming Concepts
 
 * [What is Programming and Why Hackers Should Learn It](python-data-types-for-hackers.md#1-what-is-programming)
 * [Types of Programming Languages](python-data-types-for-hackers.md#2-types-of-programming-languages)
@@ -14,7 +17,9 @@ This repository contains notes on core programming concepts explained with a hac
 * [Variables](python-data-types-for-hackers.md#4-variables)
 * [Data Types](python-data-types-for-hackers.md#5-data-types)
 
-### Python Data Types
+---
+
+## Python Data Types
 
 * [Text Type (str)](python-data-types-for-hackers.md#6-text-type)
 * [Numeric Types (int, float, complex)](python-data-types-for-hackers.md#7-numeric-types)
@@ -25,13 +30,33 @@ This repository contains notes on core programming concepts explained with a hac
 * [Binary Types (bytes, bytearray, memoryview)](python-data-types-for-hackers.md#12-binary-types)
 * [None Type (NoneType)](python-data-types-for-hackers.md#13-none-type)
 
-### Python Strings
+---
+
+## Python Strings
 
 * [Python String Basics](python-strings-for-hackers.md#python-strings)
-* [String Operations](python-strings-for-hackers.md#string-operations-important-for-hackers)
+* [String Operations (Important for Hackers)](python-strings-for-hackers.md#string-operations-important-for-hackers)
 
-### Additional Concepts
+---
+
+## Boolean Deep Dive
+
+* [Complete Boolean Guide](bool.md)
+
+---
+
+## Additional Concepts
 
 * [Type Casting (Conversion Between Data Types)](python-type-casting-notes.md)
 
 ---
+
+## Goal of This Repository
+
+* Build strong programming fundamentals
+* Understand internal working of code
+* Learn how developers make mistakes
+* Think like an attacker while reading code
+
+---
+
