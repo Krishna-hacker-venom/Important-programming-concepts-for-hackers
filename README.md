@@ -19,7 +19,7 @@ The goal is to help beginners understand how programming is used in ethical hack
 
 ---
 
-## Python Data Types
+### Python Data Types
 
 * [Text Type (str)](python-data-types-for-hackers.md#6-text-type)
 * [Numeric Types (int, float, complex)](python-data-types-for-hackers.md#7-numeric-types)
@@ -32,31 +32,33 @@ The goal is to help beginners understand how programming is used in ethical hack
 
 ---
 
-## Python Strings
+### Python Strings
 
 * [Python String Basics](python-strings-for-hackers.md#python-strings)
 * [String Operations (Important for Hackers)](python-strings-for-hackers.md#string-operations-important-for-hackers)
 
 ---
 
-## Boolean Deep Dive
+### Python Operators
+
+* [Walrus Operator](python-operators-for-hackers.md#1-walrus-operator)
+* [Chaining Comparison Operators](python-operators-for-hackers.md#2-chaining-comparison-operators)
+* [Identity Operators](python-operators-for-hackers.md#3-identity-operators)
+* [Difference Between is and ==](python-operators-for-hackers.md#4-difference-between-is-and-)
+* [Membership Operators](python-operators-for-hackers.md#5-membership-operators)
+* [Bitwise Operators](python-operators-for-hackers.md#6-bitwise-operators)
+* [Operator Precedence](python-operators-for-hackers.md#7-operator-precedence)
+
+---
+
+### Boolean Deep Dive
 
 * [Complete Boolean Guide](bool.md)
 
 ---
 
-## Additional Concepts
+### Additional Concepts
 
 * [Type Casting (Conversion Between Data Types)](python-type-casting-notes.md)
 
 ---
-
-## Goal of This Repository
-
-* Build strong programming fundamentals
-* Understand internal working of code
-* Learn how developers make mistakes
-* Think like an attacker while reading code
-
----
-
