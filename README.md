@@ -44,10 +44,16 @@ The goal is to help beginners understand how programming is used in ethical hack
 * [Walrus Operator](python-operators-for-hackers.md#1-walrus-operator)
 * [Chaining Comparison Operators](python-operators-for-hackers.md#2-chaining-comparison-operators)
 * [Identity Operators](python-operators-for-hackers.md#3-identity-operators)
-* [Difference Between is and ==](python-operators-for-hackers.md#4-difference-between-is-and-)
+* [Difference Between is and ==](python-operators-for-hackers.md#difference-between-is-and--)
 * [Membership Operators](python-operators-for-hackers.md#5-membership-operators)
 * [Bitwise Operators](python-operators-for-hackers.md#6-bitwise-operators)
 * [Operator Precedence](python-operators-for-hackers.md#7-operator-precedence)
+
+---
+
+### Debugging Practice
+
+* [Python Debugging and Output Prediction](python-debugging-exercises.md)
 
 ---
 
@@ -62,3 +68,4 @@ The goal is to help beginners understand how programming is used in ethical hack
 * [Type Casting (Conversion Between Data Types)](python-type-casting-notes.md)
 
 ---
+
