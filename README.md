@@ -67,5 +67,9 @@ The goal is to help beginners understand how programming is used in ethical hack
 
 * [Type Casting (Conversion Between Data Types)](python-type-casting-notes.md)
 
+### Python Sets
+
+* * [Sets](python-sets.md)
+
 ---
 
