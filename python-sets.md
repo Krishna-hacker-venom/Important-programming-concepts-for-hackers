@@ -1,4 +1,4 @@
-# Python Sets – 
+# Python Sets 
 
 ## What is a Set?
 
