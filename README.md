@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This repository contains notes on core programming concepts explained with a hacker mindset.  
-The goal is to help beginners understand how programming is used in ethical hacking and bug bounty hunting, focusing on how systems work internally and where vulnerabilities can exist.
+This repository contains notes on core programming concepts explained in a simple way.  
+The goal is to help beginners understand how programming is used in ethical hacking and bug bounty hunting.
 
 ---
 
@@ -35,7 +35,7 @@ The goal is to help beginners understand how programming is used in ethical hack
 ### Python Strings
 
 - [Python String Basics](python-strings-for-hackers.md#python-strings)
-- [String Operations (Important for Hackers)](python-strings-for-hackers.md#string-operations-important-for-hackers)
+- [String Operations](python-strings-for-hackers.md#string-operations-important-for-hackers)
 
 ---
 
@@ -57,15 +57,15 @@ The goal is to help beginners understand how programming is used in ethical hack
 
 ---
 
-### Boolean Deep Dive
+### Boolean
 
-- [Complete Boolean Guide](bool.md)
+- [Boolean Guide](bool.md)
 
 ---
 
 ### Additional Concepts
 
-- [Type Casting (Conversion Between Data Types)](python-type-casting-notes.md)
+- [Type Casting](python-type-casting-notes.md)
 
 ---
 
@@ -75,6 +75,6 @@ The goal is to help beginners understand how programming is used in ethical hack
 
 ---
 
-### Python-conditions statements
+### Python Condition Statements
 
--[Python-conditions](python-conditions.md)
+- [Python Conditions](python-if-statements-deep-notes.md)
