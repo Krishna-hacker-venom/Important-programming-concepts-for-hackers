@@ -74,3 +74,7 @@ The goal is to help beginners understand how programming is used in ethical hack
 - [Sets](python-sets.md)
 
 ---
+
+### Python-conditions statements
+
+-[Python-conditions](python-conditions.md)
