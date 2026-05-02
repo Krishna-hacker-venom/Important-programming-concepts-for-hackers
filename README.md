@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains notes on core programming concepts explained in a simple and practical way.
+This repository contains notes on core programming concepts explained in a simple and practical way.  
 The goal is to help beginners understand how programming is used in ethical hacking and bug bounty hunting.
 
 ---
@@ -81,6 +81,12 @@ The goal is to help beginners understand how programming is used in ethical hack
 
 ---
 
+### Python Iterators, Loops, and RegEx
+
+* [Python Iterators, Loops, and RegEx](python-iterators-loops-regex.md)
+
+---
+
 ### Debugging Practice
 
 * [Python Debugging and Output Prediction](python-debugging-exercises.md)
@@ -97,11 +103,12 @@ The goal is to help beginners understand how programming is used in ethical hack
 
 ## Suggested Learning Path
 
-1. Start with Core Programming Concepts
-2. Learn Python Data Types
-3. Practice Strings and Operators
-4. Move to Conditions and Sets
-5. Understand JSON (very important for APIs)
-6. Practice Debugging
+1. Start with Core Programming Concepts  
+2. Learn Python Data Types  
+3. Practice Strings and Operators  
+4. Move to Conditions and Sets  
+5. Understand JSON (important for APIs)  
+6. Learn Iterators, Loops, and RegEx  
+7. Practice Debugging  
 
 ---
